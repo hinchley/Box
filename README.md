@@ -2,7 +2,7 @@ Box
 ===
 Box is a dependency injection service container.
 
-A service container, also know as an inversion of control container, is used to manage the creation and resolution of objects. You register objects or object resolvers in the container, and then retrieve objects from the container when they are required. This practice allows you to avoid the use of hardcoded class names in your code - a practice which is particularly handy when unit testing.
+A service container, also known as an inversion of control container, is used to manage the creation and resolution of objects. You register objects or object resolvers in the container, and then retrieve objects from the container when they are required. This practice allows you to avoid the use of hardcoded class names in your code - a practice which is particularly handy when unit testing.
 
 Usage
 -----
